@@ -8,7 +8,7 @@ This project uses **real FLC sensor data** (normalized), a Random Forest model, 
 
 ---
 
-<img src="images/demo.jpeg" alt="App" width="600"/>
+<img src="landmine.jpeg" alt="App" width="600"/>
 
 ---
 
@@ -23,7 +23,7 @@ This project uses **real FLC sensor data** (normalized), a Random Forest model, 
 
 ---
 ### App UI
-<img src="images/demo.jpeg" width="600">
+<img src="demo.png" width="600">
 
 ## 🗂️ Directory Structure
 
@@ -67,15 +67,21 @@ Start exploring mine detection by adjusting the sliders and dropdowns!
 
 ## 🖼️ Visuals
 
-### App UI
-<img src="images/demo.jpeg" width="600">
+### Feature Importance
+<img src="imp.png" width="600">
 
 ### Feature Distributions
-<img src="images/distribution.jpeg" width="800">
+<img src="distribution.png" width="800">
 
 ---
 
-## 📑 License
+### 🙋‍♂️ Author
+ Mohammed Yousuf
+AI Engineering Student | Passionate about Machine Learning, Computer Vision, and Real-World Applications 🚀
+Feel free to reach out or contribute!
+### 📄 License
+This project is licensed under the MIT License.
+### 🌟 Star this repository
+If you found this helpful, give it a ⭐ on GitHub!
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
